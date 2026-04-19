@@ -1,12 +1,12 @@
 # HABIT TRACKER
 
 # Business Goals
-- An MVP of a Habit Tracker application as a web app 
+- [ ] An MVP of a Habit Tracker application as a web app 
 - [ ] Allow users to personalize what they want to track.
 - [ ] Track user progress over time.
 - [ ] Encourage motivation through visual progress.
 
-## Business Requirements
+## Functionality
 
 - Users can create a habit. 
 - Users can edit an existing habit.
