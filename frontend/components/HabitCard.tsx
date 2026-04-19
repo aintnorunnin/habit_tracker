@@ -2,7 +2,7 @@
 
 import { Habit } from '@/lib/types';
 import { useHabitStore } from '@/lib/store';
-import { todayString, formatDate } from '@/lib/utils';
+import { todayString } from '@/lib/utils';
 import Link from 'next/link';
 import { useMemo } from 'react';
 

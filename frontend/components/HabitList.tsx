@@ -1,8 +1,8 @@
 'use client';
 
 import { Habit } from '@/lib/types';
-import HabitCard from './HabitCard';
-import AddHabitButton from './AddHabitButton';
+import AddHabitButton from '@/components/AddHabitButton';
+import HabitCard from '@/components/HabitCard';
 
 interface HabitListProps {
   habits: Habit[];
