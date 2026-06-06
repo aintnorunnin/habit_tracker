@@ -1,6 +1,7 @@
 # Habit Tracker
 
 This repository contains a small Habit Tracker MVP built as a client-rendered Next.js application in the `frontend/` directory.
+Try it yourself! -> [Habit Tracker](https://aintnorunnin.github.io/habit_tracker/)
 
 ## Project structure
 
